@@ -1,31 +1,47 @@
 # VR vs AR
-![image](C:\Users\phili\WebstormProjects\English_Praesentation\assets\introPicture.jpg)
+<img src="assets/introPicture.jpg"  height="500" width="620" >
 ---
---
+## Table of contents
 
-## Typography
+1. Introduction
+2. Differences
+3. Benefits / Drawbacks
+4. Current Technologies
+5. A glimpse into the future
 
----
-
-## Quotes
-
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
-
----
-
-## Styles
-
-You can freely mix **bold**, *italics*, `code` and normal styles
-
-* normal
-* **bold**
-* *italics*
-* `code`
 
 --
 
-## Lists
+# VR 
+## (virtual reality)
+<img src="assets/VR.avif"  height="400" width="580" >
+---
+## <img src="assets/ps4.webp"  height="320" width="520" >
+
+- immersive/interactive experience <!-- .element: class="fragment" data-fragment-index="1" -->
+  - 1968 - Sword of Damocles <!-- .element: class="fragment" data-fragment-index="2" -->
+- Use cases: Gaming, Real Estate... <!-- .element: class="fragment" data-fragment-index="3" -->
+- Hardware (Headset, Trackers...)  <!-- .element: class="fragment" data-fragment-index="4" -->
+- Apple, Meta, Valve <!-- .element: class="fragment" data-fragment-index="5" -->
+--
+
+# AR
+## (augmented reality)
+<img src="assets/ar.jpg"  height="400" width="580" >
+---
+## <img src="assets/ar2.png"  height="212" width="238" >
+
+- overlays digital information <!-- .element: class="fragment" data-fragment-index="1" -->
+    - early 90s - Virtual Fixtures System <!-- .element: class="fragment" data-fragment-index="2" -->
+- Use cases: Gaming, Navigation... <!-- .element: class="fragment" data-fragment-index="3" -->
+- Hardware (Smartphone, HMD)  <!-- .element: class="fragment" data-fragment-index="4" -->
+- Microsoft, Pokemon Go, Google Glass <!-- .element: class="fragment" data-fragment-index="5" -->
+---
+
+--
+
+# Differences
+## <img src="assets/differences.jpg"  height="430" width="640" >
 
 ---
 
