@@ -121,4 +121,25 @@
 
 --
 
-## Thank you for your attention <3
+# Thank you for your attention <3
+---
+## Sources
+- https://virtualspeech.com/blog/history-of-vr
+- https://www.smu.edu/Meadows/NewsAndEvents/News/2023/Augmented-Reality-vs-Virtual-Reality
+- https://www.apple.com/apple-vision-pro/
+---
+- https://omnia360.de/blog/was-ist-augmented-reality/
+- https://sopa.tulane.edu/blog/whats-difference-between-ar-and-vr
+- https://magic-holo.com/unterschied-virtual-reality-vr-und-augmented-reality-ar/
+- https://icon-icons.com/icon/augmented-reality-smartphone/111367
+- https://www.playstation.com/de-de/ps-vr/
+---
+- https://stock.adobe.com/de/search?k=benefits
+- https://www.shutterstock.com/search/drawbacks
+- https://www.flaticon.com/free-icon/augmented-reality_6357965
+- https://en.wikipedia.org/wiki/Virtual_fixture
+- https://www.cablematters.com/Blog/Virtual-Reality/vr-vs-ar
+- https://www.24framesdigital.com/blog/blog.aspx?contentid=ar-vr-difference
+- https://pokemongolive.com/?hl=de
+---
+- Special thanks: https://openai.com/
