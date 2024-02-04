@@ -18,7 +18,7 @@
 ---
 ## <img src="assets/ps4.webp"  height="320" width="520" >
 
-- immersive/interactive experience <!-- .element: class="fragment" data-fragment-index="1" -->
+- Immersive/interactive experience <!-- .element: class="fragment" data-fragment-index="1" -->
   - 1968 - Sword of Damocles <!-- .element: class="fragment" data-fragment-index="2" -->
 - Use cases: Gaming, Real Estate... <!-- .element: class="fragment" data-fragment-index="3" -->
 - Hardware (Headset, Trackers...)  <!-- .element: class="fragment" data-fragment-index="4" -->
@@ -31,12 +31,11 @@
 ---
 ## <img src="assets/ar2.png"  height="212" width="238" >
 
-- overlays digital information <!-- .element: class="fragment" data-fragment-index="1" -->
+- Overlays digital information <!-- .element: class="fragment" data-fragment-index="1" -->
     - early 90s - Virtual Fixtures System <!-- .element: class="fragment" data-fragment-index="2" -->
 - Use cases: Gaming, Navigation... <!-- .element: class="fragment" data-fragment-index="3" -->
 - Hardware (Smartphone, HMD)  <!-- .element: class="fragment" data-fragment-index="4" -->
 - Microsoft, Pokemon Go, Google Glass <!-- .element: class="fragment" data-fragment-index="5" -->
----
 
 --
 
@@ -45,289 +44,81 @@
 
 ---
 
-## Unordered Lists
+## What are the differences?
+* VR is completely virtual <!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+  * AR users can interact with their physical environment <!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+* AR can be accessed with a smartphone <!-- .element: class="fragment fade-up" data-fragment-index="2" -->
+  * VR requires a headset device <!-- .element: class="fragment fade-up" data-fragment-index="2" -->
+* Majority of VR applications are designed for entertainment <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
+  * AR increasingly being used by businesses (Ikea place) <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
+--
 
-* a
-* b
-  * 1
-  * 2
-    * I
-* c
-
+# Benefits of AR
+## <img src="assets/benefitsAR.jpg"  height="430" width="640" >
 ---
 
-## Ordered Lists
+## <img src="assets/benefitsAR.png"  height="212" width="238" >
 
-automatic numbering
-
-1. a
-1. b
-    1. 1
-    1. 2
-1. c
-
----
-
-## Ordered Lists
-
-custom numbering
-
-1. a  
-2. b  
-    2.1. 1  
-    2.2. 2  
-3. c
+- Improved learning <!-- .element: class="fragment semi-fade-out" data-fragment-index="1" -->
+  - Especially children benefit from the experience <!-- .element: class="fragment semi-fade-out" data-fragment-index="1" -->
+- Improved teaching <!-- .element: class="fragment semi-fade-out" data-fragment-index="2" -->
+  - Helpful information while practicing <!-- .element: class="fragment semi-fade-out" data-fragment-index="2" -->
+- Navigation <!-- .element: class="fragment semi-fade-out" data-fragment-index="3" -->
+  - Information while being aware of your surroundings <!-- .element: class="fragment semi-fade-out" data-fragment-index="3" -->
 
 ---
-
-## Definition Lists
-
-(actually: line breaks in long lines in lists...)
-
-* First Term  
-This is the definition of the first term.
-* Second Term  
-This is one definition of the second term.  
-This is another definition of the second term.
-
+# Drawbacks of AR
+## <img src="assets/drawbacks.jpg"  height="330" width="540" >
 ---
 
-## Font Awesome
+## 
 
-*  Itym One<!-- .element: class="mdfa fa-info-circle"--> (this is a feature test in a very long item)
-*  Itym Two<!-- .element: class="mdfa fa-question-circle"-->
-*  Itym Three<!-- .element: class="mdfa fa-exclamation-circle"-->
-*  Itym 4<!-- .element: class="mdfa fa-exclamation-triangle"-->  
-with forced line break!
+- Privacy <!-- .element: class="fragment highlight-red" data-fragment-index="1" -->
+  - Data breaches, companies collecting data <!-- .element: class="fragment highlight-red" data-fragment-index="1" -->
+- Dependency on devices <!-- .element: class="fragment highlight-blue" data-fragment-index="2" -->
+  - Smartphones, tablets, AR glasses <!-- .element: class="fragment highlight-blue" data-fragment-index="2" -->
+- Potential distraction <!-- .element: class="fragment highlight-green" data-fragment-index="3" -->
+  - Driving, walking... <!-- .element: class="fragment highlight-green" data-fragment-index="3" -->
+
+--
+## Benefits of VR
+## <img src="assets/benefitsVR.jpg"  height="430" width="640" >
+---
+# <img src="assets/benefitsVR2.jpg"  height="212" width="308" >
+
+- Therapeutic application <!-- .element: class="fragment" data-fragment-index="1" -->
+  - phobias, mental health treatments <!-- .element: class="fragment" data-fragment-index="1" -->
+- Remote collaboration <!-- .element: class="fragment" data-fragment-index="2" -->
+  - vr chat <!-- .element: class="fragment" data-fragment-index="2" -->
+- Architectual visualization <!-- .element: class="fragment" data-fragment-index="3" -->
+  - planning before actual construction <!-- .element: class="fragment" data-fragment-index="3" -->
+
+---
+## Drawbacks of VR
+## <img src="assets/drawbacks.jpg"  height="330" width="540" >
+---
+- Cost <!-- .element: class="fragment highlight-red" data-fragment-index="1" -->
+  - can be very expensive <!-- .element: class="fragment highlight-red" data-fragment-index="1" -->
+- Health Concerns <!-- .element: class="fragment highlight-blue" data-fragment-index="2" -->
+  - eye strains, headaches <!-- .element: class="fragment highlight-blue" data-fragment-index="2" -->
+- Escapism <!-- .element: class="fragment highlight-green" data-fragment-index="3" -->
+
 
 --
 
-## Fragments
-
+## Current Technologies
 ---
-
-## Dont reveal all at once!
-
-- Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
-- Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
-- Item 3 <!-- .element: class="fragment" data-fragment-index="3" -->
-
----
-
-## Fancy!
-
-- Highlight Red <!-- .element: class="fragment highlight-red" data-fragment-index="2" -->
-- Fade In Then Out <!-- .element: class="fragment fade-in-then-out" data-fragment-index="1" -->
-- Slide up <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
-- Appear and step aside  <!-- .element: class="fragment fade-in-then-semi-out" data-fragment-index="4" -->
-
----
-
-## Distinguished
-
-- Item 1 <!-- .element: class="fragment semi-fade-out" data-fragment-index="1" -->
-- Item 2 <!-- .element: class="fragment semi-fade-out" data-fragment-index="2" -->
-- Item 3 <!-- .element: class="fragment semi-fade-out" data-fragment-index="3" -->
-- Item 4 <!-- .element: class="fragment semi-fade-out" data-fragment-index="4" -->
-- Item 5
-
----
-
-## FAQ (Example)
-
-*  Question One?<!-- .element: class="fragment mdfa fa-question-circle"-->
-*  Answer One!<!-- .element: class="fragment mdfa fa-exclamation-circle"-->
-*  Question Two?<!-- .element: class="fragment mdfa fa-question-circle"-->
-*  Answer Two!<!-- .element: class="fragment mdfa fa-exclamation-circle"-->
-*  Question Three?<!-- .element: class="fragment mdfa fa-question-circle"-->
-*  Answer Three!<!-- .element: class="fragment mdfa fa-exclamation-circle"-->
+# <img src="assets/currentTechnologies.jpg"  height="230" width="340" >
+- Pokemon GO <!-- .element: class="fragment" data-fragment-index="1" -->
+- AR Glasses <!-- .element: class="fragment" data-fragment-index="2" -->
+- VR Headset - Valve Index <!-- .element: class="fragment" data-fragment-index="3" -->
+- VR Headset - Meta Quest 2 <!-- .element: class="fragment" data-fragment-index="4" -->
+- VR Headset - Apple Vision Pro <!-- .element: class="fragment" data-fragment-index="5" -->
 
 --
 
-## Syntax highlighting   
-
----
-
-## Java 
-
-```java [1-6|3-5]
-public class TheFirst extends Object
-{
-  
-public static void main(String[] args)
-  
-{
-  
-}
-}
-```
-
----
-
-## JavaScript
-
-```js [1-2|3|4]
-    let a = 1;
-    let b = 2;
-    let c = x => 1 + 2 + x;
-    c(3);
-```
-
----
-
-## Callouts 
-
-<!--https://fsymbols.com/signs/bullet-point/-->
-```java
-String switchExpressionPreview13(Direction way) {
-    return switch (way) {                         ➊
-        case N -> "Up";                           ➋
-        case S -> { yield "Down"; }               ➌
-        case E, W -> "Somewhere left or right";
-        // default -> "Foo"                       ➍
-    };
-}
-```
-
-- ➊ `switch` can be used as expression
-- ➋ `->` instead of `:` → no `break;` necessary!
-- ➌ Lambdas can be used to. For _expressions_ they must `yield` a value [version]#13#
-- ➍ `default` can be ommitted if a) no expression or b) `enum` with every value handled
-
----
-
-## Callouts  (Alternative)
-
-<!--https://fsymbols.com/signs/bullet-point/-->
-```java
-String switchExpressionPreview13(Direction way) {
-    return switch (way) {                         ①
-        case N -> "Up";                           ②
-        case S -> { yield "Down"; }               ③
-        case E, W -> "Somewhere left or right";
-        // default -> "Foo"                       ④
-    };
-}
-```
-- ① <!-- .element: class="co"-->`switch` can be used as expression 
-- ② <!-- .element: class="co"-->`->` instead of `:` → no `break;` necessary!
-- ③ <!-- .element: class="co"-->Lambdas can be used to. For _expressions_ they must `yield` a value [version]#13#
-- ④ <!-- .element: class="co"-->`default` can be ommitted if a) no expression or b) `enum` with every value handled
-
----
-
-#### Try-with-resources now support „effectively final“ variables
-
-```java
-var inputStream = new FileInputStream(".gitignore");
-try (inputStream) { … }
-```
-
-#### Private methods in Interfaces<!-- .element: class="fragment" data-fragment-index="2" -->
-
-```java
-interface Version {
-    byte[] digits();
-    default String text() { return text(digits()); }
-    private String text(byte[] version) { … }
-}
-```
-<!-- .element: class="fragment" data-fragment-index="2" -->
+## Future Predictions
 
 --
 
-## Math
-
----
-
-## Single Line
-
-
-`$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
-
----
-
-## Multiple lines
-
-`$$\begin{aligned}
-  \dot{x} & = \sigma(y-x) \\
-  \dot{y} & = \rho x - y - xz \\
-  \dot{z} & = -\beta z + xy
-  \end{aligned} $$`
-
---
-
-## Being subtle
-
-* Point a
-* Point b   
-<span>(but that is not important)</span><!-- .element: class="decent x-small"-->
-* Point c
-
---
-
-## Images
-
-<span>To say it with
-[Dilbert](https://dilbert.com/strip/1995-12-10):</span><!-- .element: class="decent x-small"-->
-
-![](https://assets.amuniversal.com/0e1eaf909fcf012f2fe600163e41dd5b)
-
---
-
-## Transitions
-
----
-
-<!-- .slide:  data-transition="slide"-->
-### The train goes on ...
-* none<!-- .element: class="xx-small"-->  
-Switch backgrounds instantly
-* fade<!-- .element: class="xx-small"-->  
-Cross fade — default for background transitions
-* slide<!-- .element: class="xx-small"-->  
-Slide between backgrounds — default for slide transitions
-* convex<!-- .element: class="xx-small"-->  
-Slide at a convex angle
-* concave<!-- .element: class="xx-small"-->  
-Slide at a concave angle
-* zoom<!-- .element: class="xx-small"-->  
-Scale the incoming slide up so it grows in from the center of the screen
-
----
-
-<!-- .slide:  data-transition="slide"-->
-### and on …
-* none<!-- .element: class="xx-small"-->  
-Switch backgrounds instantly
-* fade<!-- .element: class="xx-small"-->  
-Cross fade — default for background transitions
-
----
-
-<!-- .slide:  data-transition="convex-in concave-out"-->
-### and stops.
-* fade<!-- .element: class="xx-small"-->  
-Cross fade — default for background transitions
-* slide<!-- .element: class="xx-small"-->  
-Slide between backgrounds — default for slide transitions
-
----
-
-<!-- .slide:  data-transition="fade-in fade-out"-->
-### (Passengers entering and leaving)
-* slide<!-- .element: class="xx-small"-->  
-Slide between backgrounds — default for slide transitions
-* convex<!-- .element: class="xx-small"-->  
-Slide at a convex angle
-
----
-
-<!-- .slide:  data-transition="fade"-->
-### And it starts again.
-* convex<!-- .element: class="xx-small"-->  
-Slide at a convex angle
-* concave<!-- .element: class="xx-small"-->  
-Slide at a concave angle
-
-
+## Thank you for your attention <3
