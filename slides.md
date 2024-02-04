@@ -1,5 +1,6 @@
-# Demo
-
+# VR vs AR
+![image](C:\Users\phili\WebstormProjects\English_Praesentation\assets\introPicture.jpg)
+---
 --
 
 ## Typography
